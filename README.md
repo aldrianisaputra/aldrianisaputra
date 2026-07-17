@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FCE4EC,50:F8BBD0,100:E91E63&text=Aldriani%20Saputra&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Business%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Software%20Development&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=750&lines=Business+Intelligence+Enthusiast;Data+Analytics+Enthusiast;Software+Developer;Web+Developer;Building+Interactive+Business+Intelligence+Dashboards"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=750&lines=UI/UX+Enthusiast;Business+Intelligence+Enthusiast;Data+Analytics+Enthusiast;Software+Developer;Web+Developer;Building+Interactive+Business+Intelligence+Dashboards"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 # 🌸 About Me
 
-🎓 Diploma (D3) Information Systems Student at **Universitas Pembangunan Nasional Veteran Jakarta**
+🎓 Undergraduate Information Systems Student at **Universitas Pembangunan Nasional Veteran Jakarta**
 
 💻 Interested in **Business Intelligence, Data Analytics, Software Development, Web Development, UI/UX Design, and Data Visualization**
 
@@ -19,41 +19,6 @@
 📊 Passionate about transforming raw data into meaningful insights through interactive dashboards and data-driven solutions.
 
 🌱 Continuously learning **Machine Learning, SQL, Business Intelligence, Power BI, Data Visualization, and modern analytics technologies.**
-
----
-
-# 💼 Experience
-
-### 💻 Web Developer Intern
-**PT Ciptadra Softindo**
-
-- Developed and maintained web applications.
-- Implemented responsive user interfaces.
-- Collaborated with the development team.
-
-### 🌐 Landing Page Builder Intern
-**PT Renjana Sinergi Indonesia**
-
-- Built responsive landing pages using WordPress.
-- Customized layouts based on client requirements.
-- Optimized website appearance and usability.
-
----
-
-# 🎓 Education
-
-**Universitas Pembangunan Nasional Veteran Jakarta**
-
-Diploma (D3) Information Systems
-
-Relevant Areas:
-
-- Business Intelligence
-- Database Systems
-- Data Visualization
-- Software Engineering
-- Web Programming
-- UI / UX Design
 
 ---
 
