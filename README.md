@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Business Intelligence Dashboard for Sales Analysis using K-Means Clustering (Streamlit + Python)<br><br>👯 I’m looking to collaborate on<br>Open Source Python Projects, Data Analytics, Business Intelligence<br><br>🤝 I’m looking for help with<br>Deploying Streamlit applications and improving UI/UX<br><br>🌱 I’m currently learning<br>Machine Learning, Data Mining, Streamlit, SQL, Power BI<br><br>💬 Ask me about<br>Python, Pandas, Streamlit, K-Means Clustering, Business Intelligence<br><br>⚡ Fun fact<br>I enjoy turning raw sales data into interactive dashboards 📊
+# 💫 About Me
+
+Hi there! 👋
+
+I'm an Information Systems student who enjoys building data-driven applications and interactive dashboards.
+
+🔭 Currently developing a Business Intelligence Dashboard for Sales Analysis using K-Means Clustering.
+
+📚 Currently learning Machine Learning, Business Intelligence, Data Mining, SQL, and Power BI.
+
+📈 Interested in Data Analytics, Business Intelligence, Data Visualization, and Dashboard Development.
+
+⚡ I enjoy turning raw data into meaningful insights that support better business decisions.
 
 
 ## 🌐 Socials:
