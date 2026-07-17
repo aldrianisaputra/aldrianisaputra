@@ -1,29 +1,181 @@
-# 💫 About Me
+<div align="center">
 
-Hi there! 👋
+# Hi there, I'm Aldriani Saputra 👋
 
-I'm an Information Systems student who enjoys building data-driven applications and interactive dashboards.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Business+Intelligence+Enthusiast;Data+Analytics;Python+Developer;Machine+Learning+Learner;Building+Interactive+Dashboards" />
 
-🔭 Currently developing a Business Intelligence Dashboard for Sales Analysis using K-Means Clustering.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:3B82F6,100:14B8A6&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&fontAlignY=38"/>
 
-📚 Currently learning Machine Learning, Business Intelligence, Data Mining, SQL, and Power BI.
-
-📈 Interested in Data Analytics, Business Intelligence, Data Visualization, and Dashboard Development.
-
-⚡ I enjoy turning raw data into meaningful insights that support better business decisions.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aldrianiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldrianisaputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aldrianisaputra4@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aldrianisaputra&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aldrianisaputra&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aldrianisaputra&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aldrianisaputra&icon=4&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 Information Systems Student at **Universitas Pembangunan Nasional Veteran Jakarta**
+
+📊 Passionate about **Data Analytics**, **Business Intelligence**, and **Machine Learning**
+
+🚀 Currently developing a **Business Intelligence Dashboard for Sales Analysis** using **K-Means Clustering**, **Python**, and **Streamlit**
+
+🌱 Currently learning **Machine Learning**, **Data Mining**, **Power BI**, **SQL**, and **Data Visualization**
+
+💡 Interested in transforming raw data into meaningful business insights that support decision making.
+
+---
+
+# 🚀 Current Project
+
+📌 **Business Intelligence Dashboard**
+
+> Sales Analysis using K-Means Clustering
+
+### Features
+
+- 📊 Interactive Dashboard
+- 🤖 K-Means Clustering
+- 📈 Sales KPI
+- 📉 Silhouette Score
+- 📉 Davies-Bouldin Index
+- 📂 Upload Dataset
+- 📥 Export Results
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/aldrianiii">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aldrianisaputra">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aldrianisaputra4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,js"/>
+
+</p>
+
+## ⚙️ Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,vue,firebase"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+
+</p>
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+</p>
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=AdobeXD"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aldrianisaputra&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrianisaputra&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aldrianisaputra&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aldrianisaputra&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aldrianisaputra&theme=tokyo-night"/>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aldrianisaputra&style=for-the-badge&color=2563EB"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:2563EB&height=120&section=footer"/>
+
+</div>
