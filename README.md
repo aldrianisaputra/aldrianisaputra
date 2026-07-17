@@ -1,14 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=20,24,25,26&text=Aldriani%20Saputra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Software%20Development&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FCE4EC,50:F8BBD0,100:E91E63&text=Aldriani%20Saputra&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Business%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Python&descAlignY=62"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=EC4899&center=true&vCenter=true&width=700&lines=🌸+Business+Intelligence+Enthusiast;📊+Data+Analytics+Enthusiast;💻+Software+Developer;🐍+Python+Developer;💖+Always+Learning+New+Things"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Profile%20Views-Pink-F8BBD0?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Business+Intelligence+Enthusiast;Data+Analytics;Python+Developer;Machine+Learning+Learner;Building+Interactive+Dashboards"/>
 
 </div>
 
@@ -16,241 +10,137 @@
 
 # 🌸 About Me
 
-<img align="right" width="280" src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif"/>
+🎓 **Information Systems Student** at Universitas Pembangunan Nasional Veteran Jakarta
 
-Hi there! 👋
+📊 Passionate about **Business Intelligence, Data Analytics, Data Mining, Machine Learning, and Dashboard Development**
 
-I'm **Aldriani Saputra**, an **Information Systems Student** at **Universitas Pembangunan Nasional Veteran Jakarta** who enjoys creating digital solutions through **Business Intelligence**, **Data Analytics**, and **Software Development**.
+🚀 Currently developing a **Business Intelligence Dashboard for Sales Analysis** using **K-Means Clustering**, **Python**, and **Streamlit**
 
-I love transforming raw data into meaningful insights through interactive dashboards, clean visualizations, and data-driven applications.
+🌱 Continuously learning **Machine Learning, SQL, Power BI, Data Visualization,** and modern analytics technologies.
 
----
-
-## 💖 Current Project
-
-🌸 Business Intelligence Dashboard
-
-📊 Sales Analysis using K-Means Clustering
-
-🐍 Python • Streamlit • Scikit-Learn
-
-📈 Interactive Data Visualization
-
-💾 SQLite Database
+✨ I enjoy transforming raw data into meaningful insights through interactive dashboards and data-driven solutions.
 
 ---
 
-## 🌷 Interests
+# 🌐 Connect With Me
 
-```text
-🌸 Business Intelligence
-
-📊 Data Analytics
-
-📈 Data Visualization
-
-🤖 Machine Learning
-
-💻 Software Development
-
-🌐 Web Development
-
-🎨 UI / UX Design
-
-🧠 Problem Solving
-```
-
----
-
-## 🌱 Currently Learning
-
-```text
-Python
-SQL
-Power BI
-Machine Learning
-Data Mining
-Business Intelligence
-Streamlit
-```
-
----
-
-## ✨ Favorite Quote
-
-> **"Turning raw data into meaningful insights."**
-
----
-
-<div align="center">
-
-## 💌 Connect With Me
-
-<a href="https://linkedin.com/in/aldrianisaputra">
-<img src="https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="https://instagram.com/aldrianiii">
 <img src="https://img.shields.io/badge/Instagram-F48FB1?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:aldrianisaputra4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/aldrianisaputra">
+<img src="https://img.shields.io/badge/LinkedIn-E91E63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:aldrianisaputra4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F8BBD0"/>
-
-</div>
-# 🎓 Education
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Education-F8BBD0?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-</div>
-
-<table>
-<tr>
-<td width="80">
-
-🎓
-
-</td>
-<td>
-
-### Universitas Pembangunan Nasional Veteran Jakarta
-
-**Diploma (D3) Information Systems**
-
-📅 2023 — Present
-
-**Relevant Coursework**
-
-- 📊 Business Intelligence
-- 🗄 Database Systems
-- 🌐 Web Programming
-- 💻 Object-Oriented Programming
-- 📈 Data Visualization
-- 🎨 UI / UX Design
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-<div align="center">
+## 👨‍💻 Languages
 
-### 👩🏻‍💻 Languages
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,js"/>
 
-<br><br>
+</p>
 
-### ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks & Libraries
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=laravel,bootstrap,vue,firebase"/>
 
-<br><br>
+</p>
 
-<img src="https://img.shields.io/badge/Streamlit-F8BBD0?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<p>
 
-<img src="https://img.shields.io/badge/Pandas-F48FB1?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-EC4899?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<img src="https://img.shields.io/badge/Plotly-FBCFE8?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-FDF2F8?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F9A8D4?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black"/>
 
-### 🗄 Database
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+
+</p>
+
+## 🗄 Database
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
-<br><br>
+</p>
 
-### ☁️ Cloud & CMS
+## ☁️ Cloud & Hosting
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=gcp"/>
 
-<img src="https://img.shields.io/badge/WordPress-F8BBD0?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-### 🎨 Design
+</p>
+
+## 🎨 Design
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=figma"/>
 
-<img src="https://img.shields.io/badge/Canva-F48FB1?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Adobe_XD-EC4899?style=for-the-badge&logo=adobexd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=AdobeXD"/>
 
-<img src="https://img.shields.io/badge/Adobe-FBCFE8?style=for-the-badge&logo=adobe&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
 
-<br><br>
+</p>
 
-### 🛠 Tools
+## 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman"/>
+<p>
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F8BBD0?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Chart.js-F48FB1?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vercel-EC4899?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Netlify-FBCFE8?style=for-the-badge&logo=netlify&logoColor=black"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-### 🌸 Favorite Technologies 🌸
-
-| 💖 Data | 🌷 Web | 🎀 Design |
-|:---:|:---:|:---:|
-| Python | Laravel | Figma |
-| Pandas | HTML | Canva |
-| Streamlit | JavaScript | Adobe XD |
-| Scikit-Learn | Bootstrap | UI/UX |
-| Plotly | Vue.js | Responsive Design |
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F48FB1"/>
-
-</div>
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aldrianisaputra&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aldrianisaputra&show_icons=true&theme=rose_pine&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrianisaputra&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </div>
 
-<br>
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -260,58 +150,36 @@ Streamlit
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aldrianisaputra&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aldrianisaputra&theme=radical&no-frame=true&row=1&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aldrianisaputra&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Graph
 
-<div align="center">
-
-> ⚠️ Enable GitHub Actions first to generate the snake animation.
-
-<img src="https://raw.githubusercontent.com/aldrianisaputra/aldrianisaputra/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aldrianisaputra&theme=github-compact"/>
 
 ---
 
-# 💖 Favorite Quote
+# 👀 Profile Views
 
-<div align="center">
+<p align="center">
 
-> *"Data is only valuable when it tells a story."* 🌸
+<img src="https://komarev.com/ghpvc/?username=aldrianisaputra&style=for-the-badge&color=E91E63"/>
 
-</div>
+</p>
 
 ---
 
-# 🌷 Thanks for Visiting
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:FDF2F8,35:FBCFE8,70:F9A8D4,100:EC4899"/>
+### 🌸 Thank you for visiting my profile 🌸
 
-### 🌸 Thank you for visiting my profile! 🌸
-
-<img src="https://komarev.com/ghpvc/?username=aldrianisaputra&style=for-the-badge&color=EC4899"/>
-
-⭐ *If you like my projects, don't forget to leave a star!*
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:E91E63,50:F8BBD0,100:FCE4EC"/>
 
 </div>
