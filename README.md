@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FCE4EC,50:F8BBD0,100:E91E63&text=Aldriani%20Saputra&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Business%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Python&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FCE4EC,50:F8BBD0,100:E91E63&text=Aldriani%20Saputra&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Business%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Software%20Development&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Business+Intelligence+Enthusiast;Data+Analytics;Python+Developer;Machine+Learning+Learner;Building+Interactive+Dashboards"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=750&lines=Business+Intelligence+Enthusiast;Data+Analytics+Enthusiast;Software+Developer;Web+Developer;Building+Interactive+Business+Intelligence+Dashboards"/>
 
 </div>
 
@@ -10,15 +10,50 @@
 
 # 🌸 About Me
 
-🎓 **Information Systems Student** at Universitas Pembangunan Nasional Veteran Jakarta
+🎓 Diploma (D3) Information Systems Student at **Universitas Pembangunan Nasional Veteran Jakarta**
 
-📊 Passionate about **Business Intelligence, Data Analytics, Data Mining, Machine Learning, and Dashboard Development**
+💻 Interested in **Business Intelligence, Data Analytics, Software Development, Web Development, UI/UX Design, and Data Visualization**
 
-🚀 Currently developing a **Business Intelligence Dashboard for Sales Analysis** using **K-Means Clustering**, **Python**, and **Streamlit**
+🚀 Currently developing a **Business Intelligence Dashboard for Sales Analysis** using **Python, Streamlit, SQLite, and K-Means Clustering** as my final project.
 
-🌱 Continuously learning **Machine Learning, SQL, Power BI, Data Visualization,** and modern analytics technologies.
+📊 Passionate about transforming raw data into meaningful insights through interactive dashboards and data-driven solutions.
 
-✨ I enjoy transforming raw data into meaningful insights through interactive dashboards and data-driven solutions.
+🌱 Continuously learning **Machine Learning, SQL, Business Intelligence, Power BI, Data Visualization, and modern analytics technologies.**
+
+---
+
+# 💼 Experience
+
+### 💻 Web Developer Intern
+**PT Ciptadra Softindo**
+
+- Developed and maintained web applications.
+- Implemented responsive user interfaces.
+- Collaborated with the development team.
+
+### 🌐 Landing Page Builder Intern
+**PT Renjana Sinergi Indonesia**
+
+- Built responsive landing pages using WordPress.
+- Customized layouts based on client requirements.
+- Optimized website appearance and usability.
+
+---
+
+# 🎓 Education
+
+**Universitas Pembangunan Nasional Veteran Jakarta**
+
+Diploma (D3) Information Systems
+
+Relevant Areas:
+
+- Business Intelligence
+- Database Systems
+- Data Visualization
+- Software Engineering
+- Web Programming
+- UI / UX Design
 
 ---
 
@@ -48,7 +83,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js"/>
 
 </p>
 
@@ -125,44 +160,6 @@
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
 </p>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aldrianisaputra&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrianisaputra&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aldrianisaputra&theme=rose-pine&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aldrianisaputra&theme=radical&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aldrianisaputra&theme=github-compact"/>
 
 ---
 
