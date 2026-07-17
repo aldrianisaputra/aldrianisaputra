@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=750&lines=UI%2FUX+Enthusiast;Business+Intelligence+Enthusiast;Data+Analytics+Enthusiast;Software+Developer;Web+Developer;Building+Interactive+Business+Intelligence+Dashboards"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FCE4EC,50:F8BBD0,100:E91E63&text=Aldriani%20Saputra&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Business%20Intelligence%20%7C%20UI%2FUX%20Designer%20%7C%20Software%20Development&descAlignY=62"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=750&lines=UI/UX+Enthusiast;Business+Intelligence+Enthusiast;Data+Analytics+Enthusiast;Software+Developer;Web+Developer;Building+Interactive+Business+Intelligence+Dashboards"/>
 
