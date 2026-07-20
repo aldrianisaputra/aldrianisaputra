@@ -41,10 +41,6 @@
 
 ---
 
-# 💻 Tech Stack
-
-## 👨‍💻 Languages
-
 <p>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js"/>
